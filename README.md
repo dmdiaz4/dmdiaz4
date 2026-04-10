@@ -28,7 +28,7 @@
   
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -40,7 +40,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/dmdiaz4/Currency" title="Currency"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/dmdiaz4/Currency" title="Currency"><img align="center" height="115" src="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 

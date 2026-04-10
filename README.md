@@ -24,7 +24,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmdiaz4)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>

@@ -18,6 +18,12 @@
   I’m an experienced Android Mobile Developer with almost 6 years of experience developing and maintaining Android mobile applications. I possess expertise in developing scalable mobile applications with Java, Kotlin, XML, and popular libraries/frameworks, as well as creating/maintaining CI/CD pipelines. I’m experienced in designing, creating and integrating user interfaces, databases, and RESTful APIs to create efficient and secure mobile applications.
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,sqlite,ktor,graphql,md,bash,firebase,github,githubactions" />
+  </a>
+</p>
+
 
 <br>
 

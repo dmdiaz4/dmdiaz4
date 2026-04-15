@@ -33,21 +33,48 @@
 <p align=center>
   
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
+    <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=000000&text_color=000000&icon_color=61dafb&bg_color=ffffff&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
+        <img 
+          height="150" 
+          src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
+      </picture>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=20232a&hide_border=true">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=github-light&bg_color=ffffff&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=20232a&hide_border=true">
+  </picture>
+  
 </p>
-
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/dmdiaz4/Currency" title="Currency"><img align="center" height="115" src="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&border_color=61dafb&border_radius=10"></a>
-  
+  <a align="center" href="https://github.com/dmdiaz4/Currency" title="Currency">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&border_color=61dafb&border_radius=10">
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&border_color=ffffff&border_radius=10">
+      <img
+        height="150"
+        src="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&border_color=61dafb&border_radius=10">
+    </picture>
+  </a>
 </div>
 
 

@@ -36,13 +36,13 @@
     <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=ffffff&hide_border=false&size_weight=0.5&count_weight=0.5">
+          srcset="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=30363D&hide_border=false&size_weight=0.5&count_weight=0.5">
         <source 
           media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=000000&text_color=000000&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=000000&hide_border=false&size_weight=0.5&count_weight=0.5">
+          srcset="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=000000&text_color=000000&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=D0D7DE&hide_border=false&size_weight=0.5&count_weight=0.5">
         <img 
           height="150" 
-          src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=ffffff&hide_border=false&size_weight=0.5&count_weight=0.5">
+          src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=dmdiaz4&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=30363D&hide_border=false&size_weight=0.5&count_weight=0.5">
       </picture>
   </div>
   <br>
@@ -50,11 +50,12 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=00000000&hide_border=false">
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=00000000&border_color=30363D">
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=github-light&bg_color=00000000&hide_border=false">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=00000000&hide_border=false">
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=github-light&bg_color=00000000&border_color=D0D7DE">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dmdiaz4&theme=react-dark&bg_color=00000000&border_color=30363D">
   </picture>
   
 </p>
@@ -66,13 +67,13 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&border_color=ffffff&border_radius=10">
+        srcset="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&bg_color=00000000&border_color=30363D">
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&border_color=000000&border_radius=10">
+        srcset="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&bg_color=00000000&border_color=D0D7DE">
       <img
         height="150"
-        src="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&border_color=61dafb&border_radius=10">
+        src="https://github-readme-stats-333y.vercel.app/api/pin/?username=dmdiaz4&repo=Currency&theme=react&bg_color=00000000&border_color=30363D">
     </picture>
   </a>
 </div>

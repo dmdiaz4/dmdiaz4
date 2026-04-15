@@ -7,7 +7,7 @@
 </h1>
 
 
-[![Linkedin](https://img.shields.io/badge/-David_Diaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/software-engineer-david-diaz/)](https://www.linkedin.com/in/software-engineer-david-diaz/)
+[![Linkedin](https://img.shields.io/badge/-David_Diaz-blue?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/software-engineer-david-diaz/)](https://www.linkedin.com/in/software-engineer-david-diaz/)
 [![GitHub](https://img.shields.io/github/followers/dmdiaz4?label=follow&style=social)](https://github.com/dmdiaz4)
 
 
